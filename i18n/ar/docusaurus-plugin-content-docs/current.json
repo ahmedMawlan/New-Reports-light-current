@@ -10,5 +10,13 @@
   "sidebar.tutorialSidebar.category.Toukh Hospital Reports.link.generated-index.description": {
     "message": "في هذا القسم، سنعرض العمل الذي قمنا به في مستشفى طوخ المركزي فيما يتعلق بالتيار الخفيف من حيث التركيب والتشغيل",
     "description": "The generated-index page description for category 'Toukh Hospital Reports' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.October 6th University of Technology": {
+    "message": "جامعة 6 اكتوبر التكنولوجية",
+    "description": "The label for category 'October 6th University of Technology' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.October 6th University of Technology.link.generated-index.description": {
+    "message": "في هذا القسم، سنعرض العمل الذي أجريناه في جامعة 6 أكتوبر التكنولوجية بخصوص التيار المنخفض من حيث التركيب والتشغيل.",
+    "description": "The generated-index page description for category 'October 6th University of Technology' in sidebar 'tutorialSidebar'"
   }
 }

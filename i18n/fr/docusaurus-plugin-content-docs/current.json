@@ -10,5 +10,13 @@
   "sidebar.tutorialSidebar.category.Toukh Hospital Reports.link.generated-index.description": {
     "message": "Dans cette section, nous présenterons le travail que nous avons réalisé à l'hôpital central de Toukh concernant le courant faible en termes d'installation et d'exploitation..",
     "description": "The generated-index page description for category 'Toukh Hospital Reports' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.October 6th University of Technology": {
+    "message": "Université de Technologie du 6 Octobre",
+    "description": "The label for category 'October 6th University of Technology' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.October 6th University of Technology.link.generated-index.description": {
+    "message": "Dans cette section, nous présenterons le travail que nous avons réalisé à l'Université de Technologie du 6 octobre concernant le faible courant en termes d'installation et d'exploitation.",
+    "description": "The generated-index page description for category 'October 6th University of Technology' in sidebar 'tutorialSidebar'"
   }
 }

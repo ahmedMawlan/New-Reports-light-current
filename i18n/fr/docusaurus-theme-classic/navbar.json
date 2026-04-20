@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Page d'accueil",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Le logo de mon site",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Reports": {
+    "message": "Rapports",
+    "description": "Navbar item with label Reports"
+  },
+  "item.label.Blogs": {
+    "message": "Blogs",
+    "description": "Navbar item with label Blogs"
+  },
+  "item.label.Portofolio": {
+    "message": "Portefeuille",
+    "description": "Navbar item with label Portofolio"
+  }
+}

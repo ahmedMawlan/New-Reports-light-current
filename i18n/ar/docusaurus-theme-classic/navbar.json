@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "الصفحة الرئيسية",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "شعار موقعى",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Reports": {
+    "message": "تقارير",
+    "description": "Navbar item with label Reports"
+  },
+  "item.label.Blogs": {
+    "message": "مقالات",
+    "description": "Navbar item with label Blogs"
+  },
+  "item.label.Portofolio": {
+    "message": "الموقع الشخصى",
+    "description": "Navbar item with label Portofolio"
+  }
+}

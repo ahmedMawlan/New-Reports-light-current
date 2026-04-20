@@ -1,0 +1,38 @@
+{
+  "link.title.Docs": {
+    "message": "مستندات",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "المجتمع",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "المزيد",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Reports": {
+    "message": "تقارير",
+    "description": "The label of footer link with label=Reports linking to /docs/intro"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "لينكدان",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/in/ahmed-elroby11"
+  },
+  "link.item.label.Facebook": {
+    "message": "فيسبوك",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ahmed.ramadan.828943?mibextid=rS40aB7S9Ucbxw6v"
+  },
+  "link.item.label.Blogs": {
+    "message": "مقالات",
+    "description": "The label of footer link with label=Blogs linking to /"
+  },
+  "link.item.label.Portofolio": {
+    "message": "الموقع الشخصى",
+    "description": "The label of footer link with label=Portofolio linking to https://elroby-protofolio.netlify.app/"
+  },
+  "copyright": {
+    "message": "حقوق الطبع والنشر © 2026 تقاريري، شركة (ام تى اس). تم بناؤه بواسطة \"المهندس: أحمد الروبى\" ",
+    "description": "The footer copyright"
+  }
+}

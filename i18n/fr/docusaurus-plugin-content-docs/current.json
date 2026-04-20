@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Suivant",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Toukh Hospital Reports": {
+    "message": "Rapports de l'hôpital Toukh",
+    "description": "The label for category 'Toukh Hospital Reports' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Toukh Hospital Reports.link.generated-index.description": {
+    "message": "Dans cette section, nous présenterons le travail que nous avons réalisé à l'hôpital central de Toukh concernant le courant faible en termes d'installation et d'exploitation..",
+    "description": "The generated-index page description for category 'Toukh Hospital Reports' in sidebar 'tutorialSidebar'"
+  }
+}
